@@ -1,0 +1,141 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+a {
+    text-decoration: none;
+}
+.w {
+    width: 1240px;
+    margin: 20px auto;
+}
+.header {
+    height: 60px;
+    background-color: #333333;
+}
+.logo {
+    float: left;
+    width: 52px;
+    height: 52px;
+    margin-top: 8px;
+    margin-left: 45px;
+}
+.nav {
+    float: right;
+}
+.nav ul li {
+    float: right;
+}
+.nav ul li a {
+    color: #fff9f7;
+    font-size: 12px;
+    margin-right: 20px;
+    /* line-height: 20px; */
+}
+.banner {
+    background-color: #dedede;
+    height: 3000px;
+}
+.part-1 {
+    width: 840px;
+    height: 810px;
+    background-color: #ffffff;
+    float: left;
+    margin:20px ;
+}
+h1,h2,h5 {
+    margin-top: 40px;
+    margin-left: 20px;
+}
+p {
+    text-indent: 2em;
+    font-size: 15px;
+}
+.part-2 {
+    margin-right: 20px;
+    margin-top: 20px;
+    float: right;
+    width: 340px;
+    height: 500px;
+    background-color: #ffffff;
+}
+table {
+    font-size: 12px;
+}
+.text {
+    width: 208px;
+    height: 100px;
+}
+.sub-1  {
+    color: #f1ffff;
+    border-radius: 10px;
+    width: 320px;
+    height: 40px;
+    margin-right: 45px;
+    background-color:#3355d1;
+    font-size: 16px;
+    border: 1px #d9d9d9 solid
+}
+.sub-1:hover {
+    background-color: #81d8fe;
+    color: #ffffff;
+}
+.right {
+    text-align: right;
+}
+.part-3 {
+    width: 840px;
+    height: 810px;
+    background-color: #ffffff;
+    float: left;
+    margin:20px ;
+}
+ul {
+    margin: 20px;
+    list-style: none;
+}
+li {
+    margin: 10px;
+}
+.part-4 {
+    float: left;
+    height: 400px;
+    width: 840px;
+    margin-left: 20px;
+    background-color: #ffffff
+}
+.part-4 ul li {
+    float: left;
+    width: 122px;
+    height: 126px;
+    border: 1px #d9d9d9 solid;
+}
+.part-4 ul li img {
+    width: 100%;
+}
+.part-5 {
+    float: left;
+    margin-top: 20px;
+    height: 500px;
+    width: 840px;
+    margin-left: 20px;
+    background-color: #ffffff
+}
+ol {
+    margin-left: 40px;
+}
+th {
+    text-align: left;
+    background-color: #333333;
+    color: #ffffff;
+}
+.shadow {
+    box-shadow: 2px 2px 2px 2px rgba(0, 0,0,.3 );
+}
+p {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+img {
+    margin-left: 20px;
+}
